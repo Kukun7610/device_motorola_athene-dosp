@@ -1,1 +1,1 @@
-+add_lunch_combo colt_mako-userdebug
++add_lunch_combo colt_athene-userdebug

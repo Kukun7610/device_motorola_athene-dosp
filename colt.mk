@@ -15,8 +15,8 @@
 
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/colt/config/common_full_phone.mk)
-
-$(call inherit-product, device/motorola/athene/full_athene.mk)
+ $(call inherit-product, vendor/colt/config/colt.mk)
+  
 
 # Boot animation
 TARGET_SCREEN_WIDTH := 1080
@@ -25,7 +25,7 @@ TARGET_BOOTANIMATION_HALF_RES := true
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := athene
-PRODUCT_NAME := colt_athene
+PRODUCT_NAME := colt_mako
 PRODUCT_BRAND := Motorola
 PRODUCT_MANUFACTURER := Motorola
 PRODUCT_RELEASE_NAME := athene

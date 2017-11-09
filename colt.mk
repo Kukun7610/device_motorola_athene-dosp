@@ -14,8 +14,8 @@
 # limitations under the License.
 
 # Inherit some common CM stuff.
-$(call inherit-product, vendor/colt/config/common_full_phone.mk)
- $(call inherit-product, vendor/colt/config/colt.mk)
+$(call inherit-product, vendor/dosp/config/common_full_phone.mk)
+ $(call inherit-product, vendor/motorola/config/full_athene.mk)
   
 
 # Boot animation

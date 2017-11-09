@@ -1,4 +1,4 @@
-Device Tree for Moto G4/G4 Plus (athene)
+Device Tree for Moto G4 Plus DOSP 8.x
 ===========================================
 
 The Moto G4/G4 Plus (codenamed:- "athene") is a mid-range smartphone from Motorola Mobility.
@@ -10,7 +10,7 @@ CPU     | Octa-core 1.5/1.2 GHz Cortex-A53
 Chipset | Qualcomm MSM8952 Snapdragon 617
 GPU     | Adreno 405
 Memory  | 2/3/4 GB RAM
-Shipped Android Version | 8.0.0
+Shipped Android Version | 8.x
 Storage | 64 GB
 MicroSD | Up to 256 GB
 Battery | Li-Ion 3000mAh battery

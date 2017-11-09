@@ -1,3 +1,3 @@
 PRODUCT_MAKEFILES := \
     
-      $(LOCAL_DIR)/colt_athene.mk \
+      $(LOCAL_DIR)/dosp_athene.mk \

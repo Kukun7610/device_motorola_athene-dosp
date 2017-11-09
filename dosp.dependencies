@@ -24,5 +24,10 @@
   {
     "repository": "android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings"
+  },
+  {
+    "remote":       "aosp",
+    "repository": "platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8",
+    "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi-4.8"
   }
 ]

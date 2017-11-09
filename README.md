@@ -1,7 +1,7 @@
 Device Tree for Moto G4/G4 Plus (athene)
 ===========================================
 
-The Moto G4/G4 Plus (codenamed _"athene"_) is a mid-range smartphone from Motorola Mobility.
+The Moto G4/G4 Plus (codenamed:- "athene") is a mid-range smartphone from Motorola Mobility.
 It was released in May,2016.
 
 Basic   | Spec Sheet
